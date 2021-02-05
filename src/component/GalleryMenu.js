@@ -1,35 +1,17 @@
-import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox";
+
 import React from "react";
 import travel_logo from '../images/travel_logo.jpg';
 import travelde from '../images/travel_N9A9788.jpg';
 import portrait from '../images/Portrait.jpg';
 import portraitlogo from '../images/Portrait_logo.jpg';
-import accueil from '../images/contact_logo.jpg';
-import accueil_logo from '../images/contact.jpg';
+import accueil from '../images/rLogo/accueil.jpg';
+import accueil_logo from '../images/rLogo/accueil copie.jpg';
 import stilllife from '../images/Still_life.jpg';
 import still_life_logo from '../images/Still_life_logo.jpg';
 import './GalleryMenu.css';
 import instagram from "../images/instagram.png";
 import LayoutHeader from "./LayoutHeader";
-import PortraitGallery from "./s_component/Portrait_Gallery";
 
-const options = {
-
-    caption: {
-        captionColor: "#a6cfa5",
-        marginLeft: '3em',
-        marginTop: '300px',
-        cursor: "pointer",
-    }
-}
-
-const legend = {
-
-fontFamily: 'HelveticaNeueUltraLight',
-fontWeight: 'bold',
-fontSize: 'large',
-
-}
 
 
 

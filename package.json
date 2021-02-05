@@ -1,5 +1,5 @@
 {
-  "homepage": "http://charlene19.github.io/sarahProject",
+  "homepage": "http://sarahtrioullier.com/",
   "name": "sarah_project",
   "version": "0.1.0",
   "private": true,
@@ -24,13 +24,10 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "babel src -d lib",
+    "test": "jest"
   },
+
   "eslintConfig": {
     "extends": [
       "react-app",

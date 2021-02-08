@@ -10,7 +10,6 @@ import TOKYO_17 from '../../images/Travel/Japon/Tokyo/TOKYO_17.jpg'
 import {BrowserRouter as Router} from "react-router-dom";
 import Layout from "../../Layout";
 import {SRLWrapper} from "simple-react-lightbox";
-import NINA_RICCI016 from "../../images/Still life/Still life/NINA_RICCI-016.jpg";
 
 const Japon = () => {
     return (

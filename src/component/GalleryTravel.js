@@ -1,13 +1,8 @@
 import  { SRLWrapper } from "simple-react-lightbox";
 import React from "react";
-import travel_logo from '../images/travel_logo.jpg';
-import travelde from '../images/travel_N9A9788.jpg';
 import './GalleryMenu.css';
 import Maroc009 from '../images/logo1/MAROC vierge.jpg'
 import MarocLogo from '../images/logo1/MAROC.jpg'
-import MYAJIMA_01 from '../images/Travel/Japon/Tokyo/MYAJIMA_01.jpg'
-import Ischia20 from '../images/Travel/ischia/ISCHIA_20.jpg'
-import IschiaLogo from '../images/logo/ISCHIA_20.jpg'
 import JaponDe from '../images/logo1/JAPON 0.2.jpg'
 import JaponDeV from '../images/logo1/JAPON 0.2 vierge.jpg'
 import JaponNB from '../images/logo1/JAPON 0.1.jpg'
@@ -15,7 +10,6 @@ import JaponNBV from '../images/Travel/Japon/JaponNB/REPRO45904.jpg'
 import JaponTr from '../images/Travel/Japon/JaponColor/2019-03-07_REPROS_JAPON_029.jpg'
 import JaponTrLogo from '../images/logo1/JAPON 0.3.jpg'
 import Layout from "../Layout";
-import {BrowserRouter as Router, Link} from 'react-router-dom';
 import Ischia from '../images/logo1/ISCHIA.jpg'
 import IschiaVierge from '../images/logo1/ISCHIA vierge.jpg'
 

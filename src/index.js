@@ -13,16 +13,16 @@ import StillLifeGallery from "./component/s_component/StillLife_Gallery";
 import GalleryTravel from "./component/GalleryTravel";
 import TravelMaroc from "./component/s_component/Travel_Maroc";
 import Japon from "./component/s_component/Japon";
-import Japon_NB from "./component/s_component/Japon_NB";
 import Fahrenheit from "./component/s_component/Fahrenheit";
 import Alison from "./component/s_component/Alison";
 import Adelaide from "./component/s_component/Adelaide";
 import Yamee from "./component/s_component/Yamee";
-import Portrait_Untitled from "./component/s_component/Portrait_Untitled";
 import Ischia from "./component/s_component/Ischia";
-import Japon_AutreCouleur from "./component/s_component/Japon_AutreCouleur";
 import Filles from "./component/s_component/Filles";
 import AdelaideInTheAir from "./component/s_component/AdelaideInTheAIr";
+import JaponNB from "./component/s_component/Japon_NB";
+import JaponCouleur from "./component/s_component/Japon_AutreCouleur";
+import PortraitUntitled from "./component/s_component/Portrait_Untitled";
 const routing = (
     <BrowserRouter>
 <Switch>
@@ -47,10 +47,10 @@ const routing = (
         <Japon />
     </BrowserRouter>
     <BrowserRouter path="/japonNb">
-        <Japon_NB />
+        <JaponNB />
     </BrowserRouter>
 <BrowserRouter path="/japonAutre">
-    <Japon_AutreCouleur/>
+    <JaponCouleur/>
 </BrowserRouter>
     <BrowserRouter path="/fareinheit">
         <Fahrenheit />
@@ -68,7 +68,7 @@ const routing = (
         <Yamee />
     </BrowserRouter>
     <BrowserRouter path="/portraitUntitled">
-        <Portrait_Untitled />
+        <PortraitUntitled />
     </BrowserRouter>
     <BrowserRouter path="/ischia">
         <Ischia />

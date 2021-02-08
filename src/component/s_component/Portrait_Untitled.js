@@ -8,7 +8,7 @@ import Layout from "../../Layout";
 import {SRLWrapper} from "simple-react-lightbox";
 
 
-const Portrait_Untitled = () => {
+const PortraitUntitled = () => {
     return (
         <Router>
             <Layout>
@@ -34,4 +34,4 @@ const Portrait_Untitled = () => {
                     );
 }
 
-        export default Portrait_Untitled;
+        export default PortraitUntitled;

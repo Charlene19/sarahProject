@@ -1,4 +1,3 @@
-import Baccara62 from "../../images/Still life/Still life/BACCARAT0062.jpg";
 import {SRLWrapper} from "simple-react-lightbox";
 import F080 from '../../images/Les filles/20_04_2015__080.jpg'
 import F082 from '../../images/Les filles/20_04_2015__082.jpg'

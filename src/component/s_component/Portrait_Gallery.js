@@ -1,18 +1,11 @@
 import {SRLWrapper} from "simple-react-lightbox";
 import { BrowserRouter  } from 'react-router-dom';
-import N9A7841 from '../../images/Portrait/Fahrenheit 21/_N9A7841.jpg'
 import Alison218 from '../../images/Portrait/NATAL/ALISON-218.jpg'
-import mario from '../../images/Portrait/Portrait_Untitled/mario.jpg'
 import Adelaide1315 from '../../images/Portrait/Adelaïde/ADELAIDE_KLRP1315.jpg'
 import monte03 from '../../images/Portrait/Adelaïde In the Air/ADELAIDE_KLRP_MONTA-01.jpg'
-import FS778 from '../../images/Portrait/Yamee pour Franck Sorbier/FRANCK_SORBIER_778.jpg'
-
-import N9A7841Logo from '../../images/logo/_N9A7841.jpg'
 import Alison218Logo from '../../images/logo/ALISON-218.jpg'
 import Adelaide1315Logo from '../../images/logo/ADELAIDE_KLRP1315.jpg'
-import AdelaidMontaLogo from '../../images/logo/ADELAIDE_KLRP_MONTA-03.jpg'
-import FS778Logo from '../../images/logo/FRANCK_SORBIER_778.jpg'
-import marioLogo from '../../images/logo/mario.jpg'
+
 
 import Layout from "../../Layout";
 import AdMoLo from '../../images/logo1/IN THE AIR.jpg'

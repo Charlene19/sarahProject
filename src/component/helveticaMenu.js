@@ -58,7 +58,7 @@ SARAHTRIOULLIER
                                     Travel
                                 </a>
 
-                                <a className="dropContent "  href="/gallery#contact" >
+                                <a className="dropContent "  href="/#contact" >
                                     Contact
                                 </a>
 

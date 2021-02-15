@@ -113,7 +113,7 @@ const PortraitGallery = () => {
             </div>
             <div className=" hover _b0 ">
                 <img   className=" image _ay " src={FillLogo} alt="FillLogo"/>
-                <div className=" text _2 ">LES FILLES
+                <div className=" text _2 ">ELLES
                 </div>
             </div>
         </a></div>

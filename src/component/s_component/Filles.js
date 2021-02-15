@@ -24,55 +24,55 @@ const Filles = () => {
             <Layout>
                 <SRLWrapper >
     <div className="imageP">
-        <img style={{width: "912px", height: "412.66px"}} src={F080} alt="F080"/>
+        <img style={{width: "712px", height: "608.55px"}} src={F080} alt="F080"/>
     </div>
     <div className="imageP">
-        <img style={{width: "912px", height: "412.66px"}} src={F082} alt="F082"/>
+        <img style={{width: "712px", height: "608.55px"}} src={F082} alt="F082"/>
     </div>
     <div className="imageP">
-        <img style={{width: "912px", height: "412.66px"}} src={F006} alt="F006"/>
+        <img style={{width: "712px", height: "569.6px"}} src={F006} alt="F006"/>
     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={F011} alt="F011"/>
+                        <img style={{width: "712px", height: "726.53px"}} src={F011} alt="F011"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={F012} alt="F012"/>
+                        <img style={{width: "712px", height: "574.19px"}} src={F012} alt="F012"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={F03} alt="F03"/>
+                        <img style={{width: "712px", height: "868.29px"}} src={F03} alt="F03"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={Fsarah146017} alt="Fsarah146017"/>
+                        <img style={{width: "712px", height: "574.19px"}} src={Fsarah146017} alt="Fsarah146017"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={sarah146018} alt="sarah146018"/>
+                        <img style={{width: "712px", height: "574.19px"}} src={sarah146018} alt="sarah146018"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={sarah146024} alt="sarah146024"/>
+                        <img style={{width: "712px", height: "734.02px"}} src={sarah146024} alt="sarah146024"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={sarah146034} alt="sarah146034"/>
+                        <img style={{width: "712px", height: "734.02px"}} src={sarah146034} alt="sarah146034"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={TIFF_14} alt="TIFF_14"/>
+                        <img style={{width: "712px", height: "712px"}} src={TIFF_14} alt="TIFF_14"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={TIFF_15} alt="TIFF_15"/>
+                        <img style={{width: "712px", height: "712px"}} src={TIFF_15} alt="TIFF_15"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={TRICHATEAU01} alt="TRICHATEAU01"/>
+                        <img style={{width: "712px", height: "1078.79px"}} src={TRICHATEAU01} alt="TRICHATEAU01"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={TRICHATEAU02} alt="TRICHATEAU02"/>
+                        <img style={{width: "712px", height: "468.42px"}} src={TRICHATEAU02} alt="TRICHATEAU02"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={TRICHATEAU018} alt="TRICHATEAU018"/>
+                        <img style={{width: "712px", height: "1062.69px"}} src={TRICHATEAU018} alt="TRICHATEAU018"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={TRICHATEAU019} alt="TRICHATEAU019"/>
+                        <img style={{width: "712px", height: "468.42px"}} src={TRICHATEAU019} alt="TRICHATEAU019"/>
                     </div>
                     <div className="imageP">
-                        <img style={{width: "912px", height: "412.66px"}} src={TRICHATEAU020} alt="TRICHATEAU020"/>
+                        <img style={{width: "712px", height: "462.34px"}} src={TRICHATEAU020} alt="TRICHATEAU020"/>
                     </div>
                 </SRLWrapper>
             </Layout>

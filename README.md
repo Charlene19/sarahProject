@@ -178,9 +178,9 @@ Project Link:  Link: [https://github.com/Charlene19/sarahProject/](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Charlene19/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Charlene19/sarahProject.svg?style=for-the-badge
 [contributors-url]: https://github.com/Charlene19/sarahProject/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Charlene19/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Charlene19/sarahProject.svg?style=for-the-badge
 [forks-url]:  https://github.com/Charlene19/sarahProject/network/members
 [stars-shield]: https://img.shields.io/github/stars/Charlene19/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/Charlene19/sarahProject/stargazers

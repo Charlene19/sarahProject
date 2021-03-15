@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Charlene19/sarahProject">
-    <img src="https://github.com/Charlene19/sarahProject/blob/master/static/img/sdbn.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Charlene19/sarahProject/blob/master/src/images/contact_logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Site web en ReactJS</h3>

@@ -87,7 +87,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://github.com/Charlene19/secondBrain/blob/master/static/img/Zettl1.png)
+![PageAccueil](https://github.com/Charlene19/Charlene19/blob/main/PortFolio/respInit.png)
 
 Ce projet est un site en ReactJs from scratch. 
 
@@ -136,16 +136,16 @@ Ce projet peut servir de base :
 
 Ce projet contient plusieurs branches avec des modèles de header différents : 
 
-![Header](https://github.com/Charlene19/secondBrain/blob/master/static/img/Zettl1.png)
+![Header](https://github.com/Charlene19/sarahProject/blob/master/src/images/headerJaune.png)
 
-* [Branche Header](https://fr.reactjs.org/)
+* [Branche Header](https://github.com/Charlene19/sarahProject/tree/cleaningBranch)
 
 
 Ou bien des galeries : 
 
-![Galeries](https://github.com/Charlene19/secondBrain/blob/master/static/img/Zettl1.png)
+![Galeries](https://github.com/Charlene19/sarahProject/blob/master/src/images/react-photoswipe-gallery.gif)
 
-* [Branche galeries](https://getbootstrap.com/)
+* [Branche galeries](https://github.com/Charlene19/sarahProject/blob/cleaningBranch/src/component/GalleryMenu.js)
 
 Ou encore différents systèmes d'accordéons- menus : 
 
@@ -164,7 +164,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Je suis joignable via mon [site](https://charlene19.github.io/)
 
 
-Project Link:  Link: [https://github.com/Charlene19/secondBrain/](https://github.com/Charlene19/secondBrain/)
+Project Link:  Link: [https://github.com/Charlene19/sarahProject/](https://github.com/Charlene19/sarahProject/)
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -181,7 +181,7 @@ Project Link:  Link: [https://github.com/Charlene19/secondBrain/](https://github
 [contributors-shield]: https://img.shields.io/github/contributors/Charlene19/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/Charlene19/sarahProject/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Charlene19/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Charlene19/sarahProject/network/members
+[forks-url]:  https://github.com/Charlene19/sarahProject/network/members
 [stars-shield]: https://img.shields.io/github/stars/Charlene19/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/Charlene19/sarahProject/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Charlene19/Best-README-Template.svg?style=for-the-badge
